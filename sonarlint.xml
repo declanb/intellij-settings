@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://esbsonarprd.ei.local:9000" />
+          <token>df9edf98df9edf9cdfccdfcbdfcedfc9dfcfdfc9dfcbdfccdfcfdf9cdf9cdf9fdf93dfccdf9fdfc9df9ddf98df98df9ddf92df9adfc9dfcbdf9bdf9cdf98df9cdf99dfcbdfccdf92dfc9df9cdf9cdf9d</token>
+          <option name="name" value="esbsonarprd" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
