@@ -22,8 +22,12 @@
           <option name="url" value="http://spectrum.aerlingus.com" />
           <option name="userName" value="ButleDc" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wildfly/wildfly-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\dev\spring" />
+    <option name="cloneParentDir" value="C:\dev" />
   </component>
 </application>
